@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkyodoes_doc=self.webpackChunkyodoes_doc||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/YodoesDoc/blog","blogTitle":"Blog","authorsListPath":"/YodoesDoc/blog/authors"}')}}]);
