@@ -16,7 +16,7 @@ const config: Config = {
 
   // Set the production url of your site here
   // url: 'https://yodoes.github.io',
-  url: 'doc.yodoes.com',
+  url: 'http://doc.yodoes.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   // baseUrl: '/YodoesDoc/',
