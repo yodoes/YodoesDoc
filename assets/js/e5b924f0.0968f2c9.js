@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyodoes_doc=self.webpackChunkyodoes_doc||[]).push([[9238],{2353:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/YodoesDoc/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
