@@ -1,0 +1,8 @@
+{
+  "label": "Ollama",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Ollama 相关内容。官网：https://ollama.com"
+  }
+}
